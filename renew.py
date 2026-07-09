@@ -1,1 +1,1 @@
-print("this is my first python scripts and ammm githubbb ")
+print("this is a test")
